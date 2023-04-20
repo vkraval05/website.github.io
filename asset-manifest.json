@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstreactweb/static/css/main.977e2933.css",
+    "main.js": "/firstreactweb/static/js/main.f7e7f95c.js",
+    "static/js/787.6242c244.chunk.js": "/firstreactweb/static/js/787.6242c244.chunk.js",
+    "static/media/header-img.png": "/firstreactweb/static/media/header-img.3bcc84b345349cf30583.png",
+    "index.html": "/firstreactweb/index.html",
+    "main.977e2933.css.map": "/firstreactweb/static/css/main.977e2933.css.map",
+    "main.f7e7f95c.js.map": "/firstreactweb/static/js/main.f7e7f95c.js.map",
+    "787.6242c244.chunk.js.map": "/firstreactweb/static/js/787.6242c244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.977e2933.css",
+    "static/js/main.f7e7f95c.js"
+  ]
+}
